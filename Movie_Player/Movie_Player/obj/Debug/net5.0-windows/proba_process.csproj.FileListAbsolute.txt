@@ -1,0 +1,19 @@
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.csprojAssemblyReference.cache
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.Form1.resources
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.csproj.GenerateResource.cache
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.AssemblyInfoInputs.cache
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.AssemblyInfo.cs
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.csproj.CoreCompileInputs.cache
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.genruntimeconfig.cache
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\Movie Player.exe
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\Movie Player.deps.json
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\Movie Player.runtimeconfig.json
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\Movie Player.runtimeconfig.dev.json
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\Movie Player.dll
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\ref\Movie Player.dll
+C:\Users\Inter\source\repos\proba_process\proba_process\bin\Debug\net5.0-windows\Movie Player.pdb
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\Movie Player.dll
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\ref\Movie Player.dll
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\Movie Player.pdb
+C:\Users\Inter\source\repos\proba_process\proba_process\obj\Debug\net5.0-windows\proba_process.Properties.Resources.resources

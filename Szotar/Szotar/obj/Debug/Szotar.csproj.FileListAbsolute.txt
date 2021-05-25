@@ -1,0 +1,14 @@
+C:\Users\Inter\source\repos\Szotar\Szotar\bin\Debug\Szotar.exe.config
+C:\Users\Inter\source\repos\Szotar\Szotar\bin\Debug\Szotar.exe
+C:\Users\Inter\source\repos\Szotar\Szotar\bin\Debug\Szotar.pdb
+C:\Users\Inter\source\repos\Szotar\Szotar\obj\Debug\Szotar.csprojAssemblyReference.cache
+C:\Users\Inter\source\repos\Szotar\Szotar\obj\Debug\Szotar.csproj.CoreCompileInputs.cache
+C:\Users\Inter\source\repos\Szotar\Szotar\obj\Debug\Szotar.exe
+C:\Users\Inter\source\repos\Szotar\Szotar\obj\Debug\Szotar.pdb
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\bin\Debug\Szotar.exe.config
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\bin\Debug\Szotar.exe
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\bin\Debug\Szotar.pdb
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\obj\Debug\Szotar.csprojAssemblyReference.cache
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\obj\Debug\Szotar.csproj.CoreCompileInputs.cache
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\obj\Debug\Szotar.exe
+D:\Programozás\Projektek\Teljes projekt - kóddal\Szótár\új\Szotar\Szotar\obj\Debug\Szotar.pdb

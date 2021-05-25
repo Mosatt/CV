@@ -1,0 +1,36 @@
+pék;baker
+pénztáros;cashier
+újságíró;journalist
+szoftverfejlesztő;software developer
+állatorvos;vet
+rosszul fizetett munka;badly-paid job
+fizikai munka;blue-collar job
+szellemi munka;white-collar job
+előmeneteli lehetőséget kizáró munka;dead-end job
+teljes munkaidős munka;full-time job
+részmunkaidős állás;part-time job
+idénymunka;seasonal work
+állásra jelentkezik;apply for a job
+munkanélküli;be out of work
+jelentkező;candidate
+munkanélküli segélyt kap;get unemployment benefit
+munkaközvetítő központ;job centre
+képesítések;qualifications
+fizetés;salary
+csődbe megy;go bankrupt
+szabadnapot vesz ki;have a day off
+nagy munkateher;heavy workload
+gyakornok;intern
+létminimum;living wage
+minimálbér;minimum wage
+nyugdíj;pension
+telefonon beteget jelent;phone in sick
+céget vezet;run a company
+vállalkozó;self-employed
+szerződést aláír;sign a contract
+váltott műszakban dolgozik;work in shifts
+túlórázik;work overtime
+kenyérkereső;be the breadwinner
+felmondanak neki;get sacked
+látástól vakulásig dolgozik;work 24/7
+autó;car
